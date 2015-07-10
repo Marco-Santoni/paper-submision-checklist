@@ -15,4 +15,4 @@ Let's share a useful checklist to go through before submitting a paper or an art
 
 ## Contribute
 
-Any contribution to the list is welcome!
+Any contribution to the list is welcome! Feel free to submit a new issue or start a new branch.
